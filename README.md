@@ -1,3 +1,7 @@
+# Unmaintenance Notice
+Im currently writing my own zig implementation of the bdsm-server, as such this repository won't be updated anymore.
+
+
 # Basic Data Server Monitor (Server)
 
 Can be used with the [Basic Data Server Monitor (Client)](http://github.com/firminsurgithub/bdsm-client) to monitor your server's CPU, RAM and Disk usage.
